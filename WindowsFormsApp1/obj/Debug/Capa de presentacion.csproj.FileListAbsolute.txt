@@ -1,0 +1,37 @@
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Capa Datos.dll
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Capa Datos.pdb
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.AssemblyReference.cache
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.CopyComplete
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Administracion.resources
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\agust\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Capa Datos.dll
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Capa Datos.pdb
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.GenerateResource.cache
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Capa de presentacion.csproj.CopyComplete
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Soportes.dll
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Soportes.pdb
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin.resources

@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Soporte\\Soporte.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Capa Datos\\Capa Datos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Capa Datos\\Capa Datos.csproj",
+        "projectName": "Capa Datos",
+        "projectPath": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Capa Datos\\Capa Datos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Soporte\\Soporte.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Soporte\\Soporte.csproj",
+        "projectName": "Soporte",
+        "projectPath": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Soporte\\Soporte.csproj",
+        "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Soporte\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Capa Datos\\Capa Datos.csproj": {
+                "projectPath": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Capa Datos\\Capa Datos.csproj"
+              },
+              "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Capa de presentacion.csproj": {
+                "projectPath": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Capa de presentacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Capa de presentacion.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Capa de presentacion.csproj",
+        "projectName": "Capa de presentacion",
+        "projectPath": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Capa de presentacion.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Capa Datos\\Capa Datos.csproj": {
+                "projectPath": "C:\\Users\\agust\\source\\repos\\WindowsFormsApp1\\Capa Datos\\Capa Datos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

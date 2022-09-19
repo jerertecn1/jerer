@@ -1,0 +1,6 @@
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Soportes\bin\Debug\Soportes.dll
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Soportes\bin\Debug\Soportes.pdb
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Soportes\obj\Debug\Soportes.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Soportes\obj\Debug\Soportes.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Soportes\obj\Debug\Soportes.dll
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Soportes\obj\Debug\Soportes.pdb

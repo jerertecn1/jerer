@@ -1,0 +1,15 @@
+C:\Users\agust\source\repos\WindowsFormsApp1\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\agust\source\repos\WindowsFormsApp1\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\agust\source\repos\WindowsFormsApp1\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Users\agust\source\repos\WindowsFormsApp1\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\WindowsFormsApp1\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\agust\source\repos\WindowsFormsApp1\Capa Datos\obj\Debug\Capa Datos.pdb
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Capa Datos\obj\Debug\Capa Datos.pdb
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Capa Datos\bin\Debug\Soportes.dll
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Capa Datos\bin\Debug\Soportes.pdb
+C:\Users\agust\OneDrive\Escritorio\WindowsFormsApp1\Capa Datos\obj\Debug\Capa Datos.csproj.CopyComplete
